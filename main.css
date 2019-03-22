@@ -1,7 +1,12 @@
 body{
     background-color: aqua;
-    font-size: 3rem;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p{
     display:block;
+    text-align:center;
+}
+a{
+    text-align:center;
 }
